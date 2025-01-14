@@ -1,0 +1,10 @@
+@@||torrentgalaxy.to^
+@@||b-graph-fallback.facebook.com^
+@@||b-graph.facebook.com^
+@@||graph-fallback.facebook.com^
+@@||graph.facebook.com^
+@@||graph.fbpigeon.com^
+@@||z-m-graph.facebook.com^
+@@||amp-api-edge.apps.apple.com^
+@@||amp-api-search-edge.apps.apple.com^
+@@||amp-api.apps.apple.com^
