@@ -8,4 +8,3 @@
 @@||amp-api-search-edge.apps.apple.com^
 @@||amp-api.apps.apple.com^
 @@||amp-api-updates.apps.apple.com^
-@@||stanley1913.com^
