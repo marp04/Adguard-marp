@@ -8,5 +8,3 @@
 @@||amp-api-search-edge.apps.apple.com^
 @@||amp-api.apps.apple.com^
 @@||amp-api-updates.apps.apple.com^
-@@||mas-ext.amazon.com^
-@@||msh.amazon.com^
