@@ -2911,4 +2911,3 @@
 @@||twitch.tv^$important
 @@||twitchcdn.net^$important
 @@||twitchsvc.net^$important
-@@||user-signals.production-public.tubi.io^$important
