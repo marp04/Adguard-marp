@@ -2916,5 +2916,4 @@
 @@||ip-api.com
 @@||dab.yeet.su
 @@||flujourl.top
-
-
+@@||newsgroup.ninja
