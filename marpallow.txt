@@ -2921,3 +2921,6 @@
 @@||lgtvonline.lge.com
 @@||pa.info.lgsmartad.com
 @@||pa.nextlgsdp.com
+@@||ngfts.nextlgsdp.com
+@@||aic-gfts.nextlgsdp.com
+@@||pa.ad.lgsmartad.com
