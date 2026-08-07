@@ -2918,3 +2918,6 @@
 @@||flujourl.top
 @@||newsgroup.ninja
 @@||www.newsgroup.ninja
+@@||lgtvonline.lge.com
+@@||pa.info.lgsmartad.com
+@@||pa.nextlgsdp.com
